@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[24374,["/_next/static/chunks/0c-6kf6yvqzu~.js","/_next/static/chunks/15ctcec434x_y.js","/_next/static/chunks/174df.e3-1d_t.js"],"default"]
+3:I[39785,["/_next/static/chunks/0c-6kf6yvqzu~.js","/_next/static/chunks/15ctcec434x_y.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"area":{"id":"kyoto","name":"京都","slug":"kyoto","region":"関西","description":"関西の学術都市・京都。大学が多くゲーマー人口も豊富。eo光が利用可能で、NURO光のエリアも拡大中。学生ゲーマーにはコスパの良い回線が人気。","population":"約256万人","gamerPopulation":"推定50万人","localISPs":["nuro","gamewith","hi-ho","docomo-hikari"],"localOnlyISPs":[{"name":"eo光","description":"関西電力グループの独自回線。月額5,448円で安定した低遅延通信。京都府全域で対応。"}],"characteristics":["eo光エリア","NURO光エリア","学生ゲーマー多数","コスパ重視の需要"],"faq":[{"question":"京都でゲーミングにおすすめの回線は？","answer":"eo光がコスパ・安定性のバランスが良い。NURO光も対応エリアなら速度面で優位。"},{"question":"京都の学生向けにおすすめは？","answer":"eo光の学割やドコモ光（学生向けキャンペーン）がコスパ良好。マンション一人暮らしならGameWith光もおすすめ。"},{"question":"京都でauひかりは使える？","answer":"京都府ではauひかり戸建ては提供エリア外。eo光がauスマートバリュー対象です。"}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/174df.e3-1d_t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MGOeF-z-JC073oX4Wxtch"}
+5:null

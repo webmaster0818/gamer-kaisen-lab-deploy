@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[24374,["/_next/static/chunks/0c-6kf6yvqzu~.js","/_next/static/chunks/15ctcec434x_y.js","/_next/static/chunks/174df.e3-1d_t.js"],"default"]
+3:I[39785,["/_next/static/chunks/0c-6kf6yvqzu~.js","/_next/static/chunks/15ctcec434x_y.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"area":{"id":"hokkaido","name":"北海道・札幌","slug":"hokkaido","region":"北海道","description":"北海道最大の都市・札幌を中心とするエリア。NURO光が札幌エリアに対応。東京サーバーとの距離があるため、独自回線を選ぶことがより重要です。","population":"約522万人","gamerPopulation":"推定105万人","localISPs":["nuro","gamewith","hi-ho","au-hikari","docomo-hikari"],"localOnlyISPs":[],"characteristics":["NURO光対応（札幌中心）","東京サーバーまで距離あり","auひかり対応","冬場の安定性が重要"],"faq":[{"question":"北海道でpingが低い回線は？","answer":"NURO光が札幌で平均15-20ms程度。東京サーバーまでの物理距離があるため、独自回線で経路を最適化できるNURO光・auひかりが有利です。"},{"question":"札幌でNURO光のエリアは？","answer":"札幌市の中央区・北区・東区・白石区・豊平区など主要エリアで対応。郊外は順次拡大中。"},{"question":"北海道の冬場に回線は安定する？","answer":"光回線自体は天候の影響を受けにくいです。ただしWi-Fiの電波は建物の構造に影響されるため、有線接続がゲーミングには推奨です。"}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/174df.e3-1d_t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MGOeF-z-JC073oX4Wxtch"}
+5:null
