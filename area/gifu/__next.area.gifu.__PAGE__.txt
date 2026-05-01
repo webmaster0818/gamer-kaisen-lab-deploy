@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[24374,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js","/_next/static/chunks/174df.e3-1d_t.js"],"default"]
+3:I[39785,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"area":{"id":"gifu","name":"岐阜","slug":"gifu","region":"東海","description":"東海エリアの岐阜県。コミュファ光の提供エリアで、名古屋との距離も近くサーバー接続が良好。独自回線のコミュファ光ゲーミングカスタムがゲーマーに人気です。","population":"約197万人","gamerPopulation":"推定39万人","localISPs":["gamewith","hi-ho","docomo-hikari"],"localOnlyISPs":[{"name":"コミュファ光","description":"中部電力系列の東海限定回線。ゲーミングカスタムプランで専用帯域確保。月額6,490円。"}],"characteristics":["コミュファ光エリア","名古屋に隣接・低ping","独自回線で安定","光コラボも充実"],"faq":[{"question":"岐阜でゲーミングにおすすめの回線は？","answer":"コミュファ光ゲーミングカスタムが一番手。名古屋に隣接するため名古屋サーバーへのpingも低い。GameWith光も安定した選択肢です。"},{"question":"岐阜でNURO光は使える？","answer":"岐阜県はNURO光の提供エリア外です。独自回線を希望する場合はコミュファ光がベストの代替です。"},{"question":"岐阜の山間部でも快適にゲームできる？","answer":"市街地であればコミュファ光・光コラボ系ともに問題なし。山間部は光回線の提供エリアを事前確認し、未対応の場合はホームルーターも検討しましょう。"}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/174df.e3-1d_t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hqClmj3C1rDmhinhQjXwa"}
+5:null

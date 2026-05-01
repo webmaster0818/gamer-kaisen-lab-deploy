@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[24374,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js","/_next/static/chunks/174df.e3-1d_t.js"],"default"]
+3:I[39785,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"area":{"id":"niigata","name":"新潟","slug":"niigata","region":"北陸/甲信越","description":"日本海側の主要都市・新潟。地域限定の独自回線はありませんが、光コラボ系のゲーム特化回線が安定して利用可能。東京サーバーへのアクセスも比較的良好です。","population":"約220万人","gamerPopulation":"推定44万人","localISPs":["gamewith","hi-ho","docomo-hikari"],"localOnlyISPs":[],"characteristics":["光コラボ中心","東京サーバーまで中距離","v6プラス対応が重要","冬場の回線安定性に注意"],"faq":[{"question":"新潟でゲーミングにおすすめの回線は？","answer":"GameWith光が専用帯域でゲーム通信を優先するためおすすめ。hi-ho with gamesもゲーム特化で安定しています。v6プラス対応を選びましょう。"},{"question":"新潟から東京サーバーまでのpingは？","answer":"新潟-東京間はGameWith光で15-22ms程度。FPSでも問題ないレベルですが、v6プラス対応回線を選ぶことで夜間の安定性が向上します。"},{"question":"新潟でNURO光やauひかりは使える？","answer":"新潟県はNURO光・auひかりともに提供エリア外です。光コラボ系（GameWith光・hi-ho）でv6プラス対応を選ぶのがベストです。"}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/174df.e3-1d_t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hqClmj3C1rDmhinhQjXwa"}
+5:null

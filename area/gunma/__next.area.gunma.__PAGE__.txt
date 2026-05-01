@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[24374,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js","/_next/static/chunks/174df.e3-1d_t.js"],"default"]
+3:I[39785,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"area":{"id":"gunma","name":"群馬","slug":"gunma","region":"関東","description":"関東北部の群馬県。NURO光・auひかりが利用可能で全国レベルのISPが揃う。前橋市・高崎市を中心にカバーされており、東京サーバーへのアクセスも良好です。","population":"約194万人","gamerPopulation":"推定38万人","localISPs":["nuro","gamewith","hi-ho","au-hikari","docomo-hikari"],"localOnlyISPs":[],"characteristics":["全ISP利用可能","NURO光エリア","東京サーバーに中距離","前橋・高崎中心にカバー"],"faq":[{"question":"群馬でゲーミングにおすすめの回線は？","answer":"NURO光が第一候補。前橋市・高崎市で対応エリアが広い。auひかりも独自回線で安定した通信が可能です。"},{"question":"群馬から東京サーバーまでのpingは？","answer":"群馬-東京間はNURO光で13-18ms程度。光コラボ系でも17-23ms程度。FPSゲーマーにも問題ない環境です。"},{"question":"群馬で10Gbpsプランは使える？","answer":"前橋市・高崎市の一部でフレッツ光クロス（10G）が提供開始。NURO光10Gも対応エリア拡大中です。"}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/174df.e3-1d_t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hqClmj3C1rDmhinhQjXwa"}
+5:null

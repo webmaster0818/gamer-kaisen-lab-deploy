@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[24374,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js","/_next/static/chunks/174df.e3-1d_t.js"],"default"]
+3:I[39785,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"area":{"id":"tochigi","name":"栃木","slug":"tochigi","region":"関東","description":"関東北部の栃木県。NURO光・auひかりが利用可能で、独自回線を選べるエリアです。宇都宮市を中心にゲーマー人口も増加中。東京サーバーへも比較的低pingで接続可能。","population":"約193万人","gamerPopulation":"推定38万人","localISPs":["nuro","gamewith","hi-ho","au-hikari","docomo-hikari"],"localOnlyISPs":[],"characteristics":["全ISP利用可能","NURO光エリア","東京サーバーに中距離","宇都宮中心にカバー"],"faq":[{"question":"栃木でゲーミングにおすすめの回線は？","answer":"NURO光が速度・安定性で最有力。宇都宮市で対応エリアが広い。auひかりも独自回線で安定しています。"},{"question":"栃木から東京サーバーまでのpingは？","answer":"栃木-東京間はNURO光で13-18ms程度。光コラボ系でも17-23ms程度とFPSプレイに問題ない数値です。"},{"question":"栃木のマンションでおすすめは？","answer":"NURO光 for マンション対応物件なら最安。未対応の場合はGameWith光やhi-ho with gamesが光コラボ系で工事不要の乗り換えが可能です。"}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/174df.e3-1d_t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hqClmj3C1rDmhinhQjXwa"}
+5:null

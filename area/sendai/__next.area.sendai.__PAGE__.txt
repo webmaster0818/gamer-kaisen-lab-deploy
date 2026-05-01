@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[24374,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js","/_next/static/chunks/174df.e3-1d_t.js"],"default"]
+3:I[39785,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"area":{"id":"sendai","name":"宮城・仙台","slug":"sendai","region":"東北","description":"東北最大の都市・仙台を中心とするエリア。地域限定回線はありませんが、auひかりが利用可能で独自回線の恩恵を受けられます。東京サーバーとの距離もそこまで遠くなく、FPSも快適です。","population":"約230万人","gamerPopulation":"推定46万人","localISPs":["gamewith","hi-ho","au-hikari","docomo-hikari"],"localOnlyISPs":[],"characteristics":["auひかり対応","東北最大のゲーマー人口","東京サーバーまで中距離","光コラボ選択肢豊富"],"faq":[{"question":"仙台でゲーミングにおすすめの回線は？","answer":"auひかりが独自回線で安定性が高くおすすめ。GameWith光もゲーム特化の専用帯域で安定しています。"},{"question":"宮城から東京サーバーまでのpingは？","answer":"仙台-東京間はauひかりで15-20ms程度。光コラボ系でも18-25ms程度と、FPSでも問題なくプレイ可能な数値です。"},{"question":"仙台でNURO光は使える？","answer":"宮城県はNURO光の提供エリア外です。独自回線を希望する場合はauひかりが最有力の選択肢になります。"}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/174df.e3-1d_t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hqClmj3C1rDmhinhQjXwa"}
+5:null

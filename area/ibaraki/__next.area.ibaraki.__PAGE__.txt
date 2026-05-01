@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[24374,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js","/_next/static/chunks/174df.e3-1d_t.js"],"default"]
+3:I[39785,["/_next/static/chunks/0r8189gv0mh2..js","/_next/static/chunks/15ctcec434x_y.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"area":{"id":"ibaraki","name":"茨城","slug":"ibaraki","region":"関東","description":"関東北部の茨城県。NURO光・auひかりともに対応エリアがあり、全国レベルのISPが揃っています。東京サーバーへの距離も近く、低pingが期待できるエリアです。","population":"約286万人","gamerPopulation":"推定57万人","localISPs":["nuro","gamewith","hi-ho","au-hikari","docomo-hikari"],"localOnlyISPs":[],"characteristics":["全ISP利用可能","NURO光エリア","東京サーバーに近い","独自回線の選択肢複数"],"faq":[{"question":"茨城でゲーミングにおすすめの回線は？","answer":"NURO光が速度・ping・コスパのバランスが最良。つくば市・水戸市で広くカバー。auひかりも独自回線で安定しています。"},{"question":"茨城から東京サーバーまでのpingは？","answer":"茨城-東京間はNURO光で11-15ms程度。光コラボ系でも15-20ms程度と良好。FPSも快適にプレイ可能です。"},{"question":"つくば市でおすすめの回線は？","answer":"つくば市はNURO光・auひかり両方対応。研究学園都市のため光回線インフラが充実しており、どの回線でも安定しやすいエリアです。"}]}}],[["$","script","script-0",{"src":"/_next/static/chunks/174df.e3-1d_t.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hqClmj3C1rDmhinhQjXwa"}
+5:null
